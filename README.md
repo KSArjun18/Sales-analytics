@@ -31,7 +31,7 @@ This project processes ice cream store sales data and generates comprehensive an
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/KSArjun18/Sales-analytics.git
 cd sales-analytics
 
 # Run the script
@@ -152,5 +152,6 @@ This project demonstrates:
 Built as a coding assignment to demonstrate backend development and algorithmic thinking.
 
 ## 📄 License
+
 
 This project is open source and available for educational purposes.
